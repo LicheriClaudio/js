@@ -23,7 +23,7 @@ let_timer = setInterval(function (train) {
     let timePassed = Date.now(start) - start;
 
     if (timePassed >= 2000) {
-        clearInterval(3);
+        clearInterval(timer); 
         return;
     }
 
