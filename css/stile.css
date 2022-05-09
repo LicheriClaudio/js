@@ -14,14 +14,18 @@ p {
 }
 div {
     display: flex;
-    border: solid 10px rgb(212, 212, 212);
-    box-shadow: 10px 10px 10px  ;
+    border: solid 3px rgb(212, 212, 212);
+    box-shadow: 5px 5px 5px  ;
+    text-align: center;
+    font-size: 1.3rem;
+    padding: 2rem 2rem 2rem;
+    margin: 3rem;
 }
 
 body {
-    font-size: 1.5rem;
-    background-color: bisque;
-    color: white;
+    
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-weight: bold;
     margin: 0 auto;
 }
