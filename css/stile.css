@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+}
+#train {
+    position: relative;
+    cursor: pointer;
+}
+div {
+    display: flex;
+    border: solid 0.7rem rgb(212, 212, 212);
+    box-shadow: 9rem 9rem 9rem ;
+}
